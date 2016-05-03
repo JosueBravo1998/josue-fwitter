@@ -1,0 +1,63 @@
+.error p {
+  color: red;
+  margin-top: 15px;
+}
+
+#follow-btn {
+  margin-left: 10px;
+  display:inline-block;
+   list-style: none;
+  
+}
+
+p.italic {
+    font-style: italic;
+}
+
+body {
+    background-image: url("https://images8.alphacoders.com/433/433999.jpg");
+    background-color: #cccccc;
+}
+
+h1 {
+    margin-left: 4cm;
+}
+
+p {
+    margin-left: 1cm;
+}
+
+li {
+    
+    color: #000000;
+  #color: rgb(135,135,135);
+}
+
+a {
+    margin-left: cm;
+    color: #000000;
+  #color: rgb(135,135,135);
+}
+
+h1 {
+     color: rgb(1,126,173);
+     margin-left: 10cm;
+     font-style: oblique;
+}
+
+p {
+    color: rgb(1,126,173);
+  }
+  
+h2 {
+    color: rgb(1,126,173);
+    margin-left: 1cm;
+    
+}
+
+
+a:hover { color: rgb(1,126,173)
+}
+
+
+
